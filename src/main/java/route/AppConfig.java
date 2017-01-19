@@ -9,6 +9,6 @@ public class AppConfig extends SingleRouteCamelConfiguration {
 
 	@Override
 	public RouteBuilder route() {
-		return new MyCamelRoute();
+		return new MyCamelSpringRoute();
 	}
 }

@@ -4,7 +4,7 @@ import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;
 
 @Component
-public class MyCamelRoute extends RouteBuilder {
+public class MyCamelSpringRoute extends RouteBuilder {
 
 	@Override
 	public void configure() throws Exception {

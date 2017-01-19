@@ -1,1 +1,1 @@
-camel-route
+camel-spring-route
